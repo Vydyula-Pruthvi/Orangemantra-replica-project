@@ -1,0 +1,210 @@
+@media all and (min-width: 992px) {
+	.dropdown-menu {
+		width: 25rem;
+	}
+	.mega-submenu {
+	
+		left: 100%;
+		top: 0;
+		min-width: 25rem;
+	}
+	.ktm-mega-menu {
+		position: static;
+	}
+	.mega-menu {
+		left: 0;
+		right: 0;
+		width: 100%;
+	}
+	.dropdown-menu li {
+		position: relative;
+	}
+	.dropdown-menu .submenu {
+		display: none;
+		left: 100%;
+		top: 0;
+	}
+	.dropdown-menu>li:hover>.submenu,
+	.dropdown:hover>.dropdown-menu {
+		display: block;
+	}
+}
+
+.nav-linkk{text-decoration: none;}
+#img{position: relative;
+bottom: 25px;
+left: 40px;}
+.nav{position: relative;
+top: 5px;
+left: 115px;}
+#contact{position: relative;
+top: 17px;
+}
+#fa{width: 5px;}
+#img_card{
+	height: 500px;
+	position: relative;
+
+bottom: 50px;
+background-color: rgb(57, 22, 153);
+color: aliceblue;}
+#scale{position: relative;
+top: 50px;
+left: 70px;}
+
+.imgs{margin: 0px;}
+#font{width: 220px;
+padding: 10px;}
+.fa-solid, .fa-regular, .fa-brands{font-size: 40px;
+color: rgb(16, 16, 48);}
+.fontt{position: relative;
+top: 30px;}
+
+.fonttt{position: relative;
+	top: 40px;}
+
+	#pic{padding: 10px;}
+
+	#left{width: 520px;
+	height: 375px;
+position: relative;
+top: 40px;
+left: 40px;}
+#color{background-color: rgb(223, 223, 211);}
+.border:hover{background-color: rgb(167, 99, 204);
+color: aliceblue;
+box-shadow: 0px 0px 10px 0px grey;
+}
+#leftt{width: 580px;
+	height: 340px;
+position: relative;
+top: 10px;
+left: 90px;}
+
+#bg{background-color: rgb(47, 47, 108);
+color: aliceblue;}
+#role{background-color: antiquewhite;}
+#btnn{width: 100px;
+}
+
+#bgnd{background-color: rgb(80, 80, 230);
+color: aliceblue;}
+#corousel{width: 300px;
+	height: 300px;
+	position: relative;
+top: 120px;
+right: 80px;
+background-color: aliceblue;
+border-radius: 20px 20px 20px 20px;}
+#c2{height: 500px;
+border-radius: 0px 50px 0px 0px;}
+.bar{width: 400px;
+position: relative;
+left: 150px;}
+.logo{margin: 10px;
+padding: 10px;
+}
+
+#small{padding: 10px;}
+
+@media screen and (max-width: 530px){
+
+	#img{position: relative;
+		bottom: 0px;
+		left: 150px;
+	}
+
+		.nav{position: relative;
+			bottom: 250px;
+			left: 0px;
+			
+		padding: 0px;}	
+
+		#contact{position: relative;
+			
+			bottom: 30px;
+			padding: 20px;
+			}
+			#img_card{
+				height: 550px;
+				position: relative;
+			top: 0px;
+			bottom: 0px;}
+
+			#scale{position: relative;
+				top: 20px;
+				left: 0px;
+			color: black;}
+			#create{position: relative;	
+			top: 500px;}
+
+			#contact{position: relative;
+				top: 0px;
+				}
+				.text{color: black;}
+				.bar{width: 400px;
+					position: relative;
+					left: 0px;}
+
+					#create{position: relative;
+					top: 420px;}
+				
+					#font{width: 0px;
+						padding: 10px;
+					position: relative;
+					top: 700px;
+		}
+		.fonttt{position: relative;
+			top: 0px;
+		left: 0px;
+	top: 150px;}
+			.fontt{position: relative;
+				bottom: 0px;}
+
+				.smile{position: relative;
+				top: 30px;}
+				
+				.smilee{position: relative;
+					top: 130px;}
+					
+				#color{position: relative;
+					top: 500px;
+				}
+				#leftt{width: 0px;
+					height: 0px;
+				position: relative;
+				top: 10px;
+				left: 0px;}
+				
+	#left{width: 300px;
+		height: 375px;
+	position: relative;
+	top: 80px;
+	left: 70px;}
+	.fw{position: relative;
+	top: 500px;
+left: 60px;}
+#hover{position: relative;
+top: 100px;}
+
+#bg{position: relative;
+top: 90px;}
+#seam{position: relative;
+top: 80px;}
+#tech, #role, #bgnd, #techh{position: relative;
+	top: 80px;}
+#crl{margin: 0px;}	
+#techh{text-align: center;}
+
+#corousel{width: 300px;
+	height: 300px;
+	position: relative;
+top: 10px;
+right: 0px;
+left: 80px;
+background-color: aliceblue;
+border-radius: 20px 20px 20px 20px;}
+		}
+
+
+	
